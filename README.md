@@ -1,1 +1,1 @@
-# knou-probability-concept
+# Probability Concept and Applications
